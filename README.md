@@ -41,3 +41,14 @@ The design combines subtle animations with performance-aware scroll behavior to 
 ## 📁 Project Structure
 
 ├── index.html # Main HTML structure ├── style.css # All custom styles and responsiveness ├── script.js # Scroll & animation logic ├── assets/ ├── SK.png │ ├── projectbg.jpg │ ├── gmail.webp │ ├── phone.png │ └── LinkedIn_icon.svg
+
+---
+
+## Outputs
+
+Landing Page ![Image](https://github.com/user-attachments/assets/8c90fe3a-77f4-44f9-9f8b-9759d865a2e0)
+About Section ![Image](https://github.com/user-attachments/assets/fb8841db-bf43-4b49-b798-8d6293feb7f0)
+Skill Section ![Image](https://github.com/user-attachments/assets/ea0afbf6-1818-4ff5-943d-99835d1f8898)
+Project Section ![Image](https://github.com/user-attachments/assets/3f4d152f-b374-4fc9-bd99-3024f3f11e01)
+Contact Section ![Image](https://github.com/user-attachments/assets/e7568a47-8d4b-4e82-bf35-757d080a668a)
+
